@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/jacobbroughton/text-library-chrome-extension-backend.git"
   },
-  "author": "",
+  "author": "Jacob Broughton",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jacobbroughton/text-library-chrome-extension-backend/issues"
